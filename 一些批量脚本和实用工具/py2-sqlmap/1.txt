@@ -1,0 +1,12 @@
+POST /getDianBoList.action HTTP/1.1
+Host: 222.82.219.137
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Content-Type: application/x-www-form-urlencoded
+Cache: no-cache
+Origin: moz-extension://7b39ea0a-d154-40f5-b5fc-4b813b913d16
+Content-Length: 45
+Connection: close
+
+contentsearch.tcase.casecode=1&page=1&rows=10
